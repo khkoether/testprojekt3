@@ -12,4 +12,4 @@ Eins und eins das macht zwei.
 mal schauen wie es läuft
 
 # mein zweiter Pull-Request
-hoffe auf Einsicht
+hoffe auf Einsicht und Verständnis
