@@ -13,3 +13,6 @@ mal schauen wie es läuft
 
 # mein zweiter Pull-Request
 hoffe auf Einsicht und Verständnis
+
+# new-feature
+Vier und vier das macht acht.
